@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Rodrigo Tadeu
 
-- 📘 Atualmente, curso Engenharia Ambiental
 - 🌱 Estudando react
 - 📪 rodrigotadeu61@gmail.com
 - 😄 Pronouns: ele, dele
-- 🏋️‍♂️ Gosto de treinar 
 
 
 <div >
